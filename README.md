@@ -1,5 +1,7 @@
 # Ruby telegram bot (Ru)
 
+[EN doc](https://github.com/ZeroNiki/news-telegram-bot/blob/main/EN.md)
+
 Телеграм бот написаный на Ruby. Парсит новости из сайта [Hacker News](https://news.ycombinator.com/) и сохраняет в базу данных sqlite3
 
 ## Устоновка
