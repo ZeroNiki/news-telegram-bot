@@ -19,9 +19,9 @@ git clone https://github.com/ZeroNiki/news-telegram-bot.git
 ruby scrape.rb
 ```
 
-Вставьте ваш токен телеграм бота сюда:
+Создайте файл __token.rb__ и создайте переменую с названием __TOKEN__:
 ```ruby
-token = "Ваш токен"
+TOKEN = 'Ваш токен'
 ```
 
 
