@@ -16,10 +16,9 @@ Creating a database:
 ```
 ruby scrape.rb
 ```
-
-Paste your telegram bot token here:
+Create file in current directory __token.rb__ and create variable __TOKEN__:
 ```ruby
-token = "Your token"
+TOKEN = "your token"
 ```
 
 
